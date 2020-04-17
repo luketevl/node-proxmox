@@ -17,4 +17,4 @@ px.del('/nodes/{node}/storage/{storage}/content/{volume}', callback(data));
 Ressources
 ============
 
-Proxmox API documentation : http://pve.proxmox.com/pve2-api-doc/
+Proxmox API documentation : https://pve.proxmox.com/pve-docs/api-viewer
