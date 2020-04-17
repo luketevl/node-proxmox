@@ -1,6 +1,3 @@
-No longer maintained. 
-============
-
 node-proxmox
 ============
 
